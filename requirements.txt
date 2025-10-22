@@ -1,0 +1,6 @@
+obspy
+ephem
+matplotlib
+pandas
+numpy
+scipy
